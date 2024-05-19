@@ -28,9 +28,6 @@ Getting Started Prerequisites
 1.Power BI Desktop
 2.Excel
 
-Installation
-Clone the repository:
-git clone https://github.com/Muthuchitra@04/HR_Analytics_Dashboard.git
 steps:
 1.Open the .pbix file in Power BI Desktop.
 2.Ensure the Excel data source is correctly linked.
